@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Asia Cansler
+# DATE: October 7, 2025
+# BRIEF DESCRIPTION: A program to for a percentage and return the corresponding letter grade.
 
 
 
@@ -85,7 +85,8 @@ D
 1. What is something you would tell a future student to be careful about when
    doing this lab?
 
-
+I was tell them to make sure they start at the higher end of scores and then work down,
+otherwise most grades will end up as a D.
 
 
 
